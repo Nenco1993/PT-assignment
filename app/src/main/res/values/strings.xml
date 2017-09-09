@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="retrofit_error_message">Shit just got real!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="KEY_LIST_ITEM">item</string>
+</resources>
